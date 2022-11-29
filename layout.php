@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Welcome to WMC!</h1>
+    <h1>Welcome to WMC! (Git Tutorial)</h1>
     <p>The great PHP & JS Sample...</p>
     <?php
         renderBody();
