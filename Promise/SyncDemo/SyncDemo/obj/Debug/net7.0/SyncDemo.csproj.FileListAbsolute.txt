@@ -1,0 +1,15 @@
+C:\HTL\Unterricht\SJ2223\3AHIF\WMC\Promise\SyncDemo\SyncDemo\bin\Debug\net7.0\SyncDemo.exe
+C:\HTL\Unterricht\SJ2223\3AHIF\WMC\Promise\SyncDemo\SyncDemo\bin\Debug\net7.0\SyncDemo.deps.json
+C:\HTL\Unterricht\SJ2223\3AHIF\WMC\Promise\SyncDemo\SyncDemo\bin\Debug\net7.0\SyncDemo.runtimeconfig.json
+C:\HTL\Unterricht\SJ2223\3AHIF\WMC\Promise\SyncDemo\SyncDemo\bin\Debug\net7.0\SyncDemo.dll
+C:\HTL\Unterricht\SJ2223\3AHIF\WMC\Promise\SyncDemo\SyncDemo\bin\Debug\net7.0\SyncDemo.pdb
+C:\HTL\Unterricht\SJ2223\3AHIF\WMC\Promise\SyncDemo\SyncDemo\obj\Debug\net7.0\SyncDemo.csproj.AssemblyReference.cache
+C:\HTL\Unterricht\SJ2223\3AHIF\WMC\Promise\SyncDemo\SyncDemo\obj\Debug\net7.0\SyncDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL\Unterricht\SJ2223\3AHIF\WMC\Promise\SyncDemo\SyncDemo\obj\Debug\net7.0\SyncDemo.AssemblyInfoInputs.cache
+C:\HTL\Unterricht\SJ2223\3AHIF\WMC\Promise\SyncDemo\SyncDemo\obj\Debug\net7.0\SyncDemo.AssemblyInfo.cs
+C:\HTL\Unterricht\SJ2223\3AHIF\WMC\Promise\SyncDemo\SyncDemo\obj\Debug\net7.0\SyncDemo.csproj.CoreCompileInputs.cache
+C:\HTL\Unterricht\SJ2223\3AHIF\WMC\Promise\SyncDemo\SyncDemo\obj\Debug\net7.0\SyncDemo.dll
+C:\HTL\Unterricht\SJ2223\3AHIF\WMC\Promise\SyncDemo\SyncDemo\obj\Debug\net7.0\refint\SyncDemo.dll
+C:\HTL\Unterricht\SJ2223\3AHIF\WMC\Promise\SyncDemo\SyncDemo\obj\Debug\net7.0\SyncDemo.pdb
+C:\HTL\Unterricht\SJ2223\3AHIF\WMC\Promise\SyncDemo\SyncDemo\obj\Debug\net7.0\SyncDemo.genruntimeconfig.cache
+C:\HTL\Unterricht\SJ2223\3AHIF\WMC\Promise\SyncDemo\SyncDemo\obj\Debug\net7.0\ref\SyncDemo.dll
